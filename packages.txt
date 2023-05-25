@@ -1,0 +1,9 @@
+|Package| Req Version | Avail Version|
+|-------|-------------|-------------|
+|aws-java-sdk-core|1.12.365| n/a |
+|aws-java-sdk-kms|1.12.365| n/a |
+|aws-java-sdk-s3|1.12.365| n/a |
+|aws-java-sdk-sts|1.12.365| n/a |
+|jcommander | 1.78| 1.71|
+|com.eed3si9n:sjson-new-core_2.13:| 0.9.1| n/a|
+|kryo| 2.24| 2.20| 
